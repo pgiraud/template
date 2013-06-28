@@ -75,6 +75,21 @@ GEOR.custom = {
             "es": "Una herramienta que te permite hacer un zoom sobre una parte del mapa ortofoto",
             "fr": "Un outil qui permet de zoomer dans une orthophoto sur une portion de la carte"
         }
+    }, {
+        "id": "annotation",
+        "name": "Annotation",
+        "title": {
+            "en": "Drawing tools",
+            "es": "Herramientas de dibujo",
+            "fr": "Outils de dessin"
+        },
+        "description": {
+            "en": "A set of tools to annotate the map by drawing different kind of shapes.",
+            "es": "A set of tools to annotate the map by drawing different kind of shapes.",
+            "fr": "Une ensemble d'outils pour annoter la carte en dessinant différentes formes."
+        },
+        "options": {
+        }
     }],
     
     /**
