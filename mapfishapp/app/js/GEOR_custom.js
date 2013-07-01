@@ -86,7 +86,7 @@ GEOR.custom = {
         "description": {
             "en": "A set of tools to annotate the map by drawing different kind of shapes.",
             "es": "A set of tools to annotate the map by drawing different kind of shapes.",
-            "fr": "Une ensemble d'outils pour annoter la carte en dessinant différentes formes."
+            "fr": "Un ensemble d'outils pour annoter la carte en dessinant différentes formes."
         },
         "options": {
         }
